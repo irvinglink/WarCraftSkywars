@@ -1,0 +1,12 @@
+main: me.WCSkywars.MClass
+name: WarCraft Skywars
+version: 1.0
+commands:
+  skywars:
+    description: Skywars Plugin developed by irvinglink
+    aliases: [sw]
+  skywarsadmin:
+    description: Skywars Plugin developed by irvinglink
+    aliases: [swa]
+  spawn:
+    description: Teleport to spawn.
